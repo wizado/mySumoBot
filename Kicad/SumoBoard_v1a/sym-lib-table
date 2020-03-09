@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name 317030001)(type Legacy)(uri D:/Documents/Projets/mySumoBot/Kicad/lib/317030001.lib)(options "")(descr ""))
+  (lib (name DSPIC30F4012-20I_SO)(type Legacy)(uri D:/Documents/Projets/mySumoBot/Kicad/lib/DSPIC30F4012-20I_SO.lib)(options "")(descr ""))
+  (lib (name LM3724EM5-3.08)(type Legacy)(uri D:/Documents/Projets/mySumoBot/Kicad/lib/LM3724EM5-3.08.lib)(options "")(descr ""))
+  (lib (name TB6612FNG_C_8_EL)(type Legacy)(uri D:/Documents/Projets/mySumoBot/Kicad/lib/TB6612FNG_C_8_EL.lib)(options "")(descr ""))
+)
